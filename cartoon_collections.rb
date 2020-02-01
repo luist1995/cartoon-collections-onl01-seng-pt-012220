@@ -1,6 +1,7 @@
-def roll_call_dwarves# code an argument here
-  # Your code here
+def roll_call_dwarves(dwarves)
+  dwarves.map_with_index do |a|
 end
+end 
 
 def summon_captain_planet# code an argument here
   # Your code here
