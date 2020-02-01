@@ -1,6 +1,6 @@
 def roll_call_dwarves(dwarves)
   dwarves.map_with_index do |a, index| 
-    puts "#{index + 1}, #{a}"
+    puts "#{index + 1}. #{a}"
 end
 end 
 
